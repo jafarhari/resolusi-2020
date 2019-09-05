@@ -1,3 +1,5 @@
 resolusi
 - abc
 - def
+- ghi
+- jkl
